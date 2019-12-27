@@ -1,7 +1,7 @@
-# suryamuki-project
+# suryamukhi-project
 It's SYK Project Repositroy. 
 
-## Suryamuki for Frontend
+## Suryamukhi for Frontend
 made with Vanilla.
 
 ## Usage
