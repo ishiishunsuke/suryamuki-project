@@ -11,7 +11,7 @@ made with Vanilla.
 ```
 * Create a instance of Suryamuki
 ```javascript
-const hoge = new Suryamuki;
+const hoge = new Suryamukhi;
 ```
 
 * Enjoy.
